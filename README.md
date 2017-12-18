@@ -12,5 +12,5 @@ Code we implement can divided into six steps:
 - Accuracy: Compute the accuracy of predictions.
 - Main: Tie it all together.
  
-##Reference 
+## Reference 
 Jason Brownlee's blog
